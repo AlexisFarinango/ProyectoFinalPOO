@@ -5,17 +5,17 @@ Desarrollar un sistema integral de gestión de ventas y control de stock para un
 
 ## Módulos y Submódulos
 **Login**
-* El módulo permite al usuario ingresar sus datos de identificación y ingresar como cajero o administrador del sistema. *
+* El módulo permite al usuario ingresar sus datos de identificación y ingresar como cajero o administrador del sistema. 
 
 **Gestión de Administrador**
-* El módulo cuenta con un menú con las acciones que un administrador puede hacer en el sistema como: *
+* El módulo cuenta con un menú con las acciones que un administrador puede hacer en el sistema como: 
   - Gestión de stock
   - Historial de transacciones
   - Gestión de usuarios
   - cerrar sesión.
 
 **Gestión de Cajero**
-* El módulo muestra un menú con las acciones que un cajero puede hacer en el sistema como: *
+* El módulo muestra un menú con las acciones que un cajero puede hacer en el sistema como: 
   - Venta de productos
   - Historial de transacciones
   - Cerrar sesión
